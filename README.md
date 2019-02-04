@@ -1,1 +1,1 @@
-# Machine-Learning-University-of-Washinton
+# Machine-Learning-University-of-Washington
